@@ -11,11 +11,11 @@
  */
 
 // NOTE see functions.php `register_sidebar()`
-if ( ! is_active_sidebar( 'sidebar-5' ) ) {
+if ( ! is_active_sidebar( 'sidebar-books' ) ) {
 	return;
 }
 ?>
 
-<aside id="secondary" class="widget-area" role="complementary" aria-label="<?php esc_attr_e( 'Blog EN Sidebar', 'historiador' ); ?>">
-	<?php dynamic_sidebar( 'sidebar-5' ); ?>
+<aside id="secondary" class="widget-area" role="complementary" aria-label="<?php esc_attr_e( 'Sidebar for Books', 'historiador' ); ?>">
+	<?php dynamic_sidebar( 'sidebar-books' ); ?>
 </aside><!-- #secondary -->
