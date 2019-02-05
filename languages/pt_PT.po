@@ -1,0 +1,41 @@
+# Copyright (C) 2019 Protesilaos Stavrou
+# This file is distributed under the same license as the Historiador Custom Post Types Templates plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Historiador Custom Post Types Templates 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/historiador-wp-"
+"theme-cpt-templates-plugin\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-02-05T23:02:42+00:00\n"
+"PO-Revision-Date: 2019-02-05 23:05+0000\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Domain: historiador-cpt-templates\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+
+#. Plugin Name of the plugin
+msgid "Historiador Custom Post Types Templates"
+msgstr "Historiador Modelos para Tipos de Publicação Personalizados"
+
+#. Plugin URI of the plugin
+msgid ""
+"https://github.com/historiador/historiador-wp-theme-cpt-templates-plugin"
+msgstr ""
+"https://github.com/historiador/historiador-wp-theme-cpt-templates-plugin"
+
+#. Description of the plugin
+msgid "Custom Post Type Templates for the Historiador WordPress Theme"
+msgstr ""
+"Modelos para tipos de publicação personalizados para o tema Historiador"
+
+#. Author of the plugin
+msgid "Protesilaos Stavrou"
+msgstr "Protesilaos Stavrou"
+
+#. Author URI of the plugin
+msgid "https://protesilaos.com"
+msgstr "https://protesilaos.com"
